@@ -1,0 +1,19 @@
+"filters"
+{
+	"favorites"
+	{
+	}
+
+	"history"
+	{
+		"0"
+		{
+			"name"		"192.168.56.1:27015"
+			"address"	"192.168.56.1:27015"
+			"lastplayed"	"1553523901"
+			"appID"		"0"
+		}
+
+	}
+
+}

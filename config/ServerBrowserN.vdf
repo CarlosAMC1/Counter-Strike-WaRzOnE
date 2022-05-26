@@ -1,0 +1,81 @@
+"Filters"
+{
+	"history"
+	{
+		"1"
+		{
+			"name"		"FlashGames #GunGame#BRASIL"
+			"gamedir"		"cstrike"
+			"Players"		"20"
+			"maxplayers"		"32"
+			"map"		"cs_mansion_32"
+			"lastplayed"		"1553266003"
+			"address"		"177.54.152.56:27000"
+		}
+		"2"
+		{
+			"name"		"89.40.105.186:27015"
+			"Players"		"0"
+			"maxplayers"		"0"
+			"lastplayed"		"1553523406"
+			"address"		"89.40.105.186:27015"
+		}
+		"3"
+		{
+			"name"		"192.168.56.1:27015"
+			"Players"		"0"
+			"maxplayers"		"0"
+			"lastplayed"		"1553870130"
+			"address"		"192.168.56.1:27015"
+		}
+		"4"
+		{
+			"name"		"93.123.18.8:27017"
+			"Players"		"0"
+			"maxplayers"		"0"
+			"lastplayed"		"1553524006"
+			"address"		"93.123.18.8:27017"
+		}
+	}
+	"gamelist"		"lan"
+	"Filters"
+	{
+		"InternetGames"
+		{
+			"game"		"cstrike"
+			"ping"		"0"
+			"location"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+			"NoBoost"		"0"
+		}
+		"FavoriteGames"
+		{
+			"game"		"cstrike"
+			"ping"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+			"NoBoost"		"0"
+		}
+		"LanGames"
+		{
+			"game"		"cstrike"
+			"ping"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+			"NoBoost"		"0"
+		}
+		"HistoryGames"
+		{
+			"game"		"cstrike"
+			"ping"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+			"NoBoost"		"0"
+		}
+	}
+}
